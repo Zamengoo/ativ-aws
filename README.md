@@ -68,4 +68,4 @@ Para evitar custos, remova os recursos quando terminar:
 terraform destroy
 ```
 
-## Feito por Eduardo Zamengo do Nascimento e Danilo Santos dos Reis
+## Feito por: Eduardo Zamengo do Nascimento e Danilo Santos dos Reis
