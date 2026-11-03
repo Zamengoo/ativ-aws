@@ -67,3 +67,5 @@ Para evitar custos, remova os recursos quando terminar:
 ```bash
 terraform destroy
 ```
+
+## Feito por Eduardo Zamengo do Nascimento e Danilo Santos dos Reis
